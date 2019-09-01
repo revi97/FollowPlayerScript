@@ -14,14 +14,14 @@ If you want to follow the player properly. Just make sure the camera object whic
 
 ## HOW TO USE:
 
-  **
+  
   -Copy the script into the asset folder or wherever you want to keep the scripts in.
   -It will be detected by Unity Game Engine even when the project is open.
   -Drag and Drop the script on the camera which you want it follow the player.
   -It will leave an empty space in inspector for an object to be dragged into it.
   -Drag and drop the selected object to that place which wants to be followed.
   -That's it. Very Simple.
-  **
+  
   
 
 
